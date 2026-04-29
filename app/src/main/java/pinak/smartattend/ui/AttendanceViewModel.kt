@@ -80,7 +80,7 @@ class AttendanceViewModel(application: Application) : AndroidViewModel(applicati
                         rollNo = rollNo,
                         className = "TECA",
                         subject = "All",
-                        parentMobile = "919172817522" // Default placeholder
+                        parentMobile = "910000000000" // Dummy placeholder for privacy
                     )
                 }
                 repository.insertStudents(studentsToInsert)
