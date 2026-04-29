@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">SmartAttend</string>
+    <string name="login_title">Smart Attend</string>
+    <string name="login_subtitle">Teacher Login</string>
+    <string name="label_username">Username</string>
+    <string name="label_password">Password</string>
+    <string name="btn_login">LOGIN</string>
+
+    <string name="dashboard_title">Teacher Dashboard</string>
+    <string name="welcome_back">Welcome Back!</string>
+    <string name="total_students">Total Students: %d</string>
+    <string name="btn_mark_attendance">Mark Attendance</string>
+    <string name="btn_view_students">View Students &amp; Parents</string>
+    <string name="btn_export_report">Export Report (Excel)</string>
+    <string name="btn_seed_data">Seed Student Data (TECA)</string>
+
+    <string name="mark_attendance_title">Mark Attendance</string>
+    <string name="no_students_found">No students found. Add students first.</string>
+    <string name="btn_submit_attendance">SUBMIT ATTENDANCE</string>
+
+    <string name="students_list_title">Students &amp; Parents</string>
+    <string name="add_student_title">Add New Student</string>
+    <string name="label_student_name">Student Name</string>
+    <string name="label_roll_number">Roll Number</string>
+    <string name="label_class_section">Class / Section</string>
+    <string name="label_subject">Subject</string>
+    <string name="label_parent_mobile">Parent\'s WhatsApp Mobile</string>
+    <string name="placeholder_mobile">+91...</string>
+    <string name="btn_save_student">SAVE STUDENT DATA</string>
+
+    <string name="content_desc_back">Back</string>
+    <string name="content_desc_add_student">Add Student</string>
+    <string name="content_desc_whatsapp">Send WhatsApp Message</string>
+</resources>
